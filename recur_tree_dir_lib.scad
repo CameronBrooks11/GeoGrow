@@ -223,4 +223,4 @@ repel_points = [[-200, 0, 300], [-100, -200, 250], [-100, -100, 100]]; // Repel 
 visualize_points(attract_points, repel_points, point_size=10);
 
 // Example default call
-tree(depth=6, color_palette=3, n_branches=4, max_branch_variation=1, attract_points=attract_points, repel_points=repel_points);
+tree(depth=5, color_palette=3, n_branches=3, max_branch_variation=1, attract_points=attract_points, repel_points=repel_points);

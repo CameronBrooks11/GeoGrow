@@ -13,7 +13,7 @@ example_7 = true;
 example_8 = true;
 
 // Translation variables to position each example
-trans_x = 500; // Distance in x-axis between each tree
+trans_x = 700; // Distance in x-axis between each tree
 
 // Example 1: Vibrant Tree with Asymmetry from Branch Offset
 if (example_1) {
