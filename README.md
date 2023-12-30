@@ -2,5 +2,5 @@
 
 
 # Example Renders
-![recur_tree_dir_lib](results\render-images\recur_tree_dir_lib.png)
-![recur-trees-x8](results\render-images\recur-trees-x8.png)
+![recur_tree_dir_lib](results/render-images/recur_tree_dir_lib.png)
+![recur-trees-x8](results/render-images/recur-trees-x8.png)
