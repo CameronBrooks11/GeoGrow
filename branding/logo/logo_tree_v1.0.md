@@ -1,1 +1,1 @@
-[Logo Rendering Script - Gist](https://gist.github.com/CameronBrooks11/7f44e17af9c78c67fe432197d06337dd)
+[Logo Rendering Script - Gist](https://gist.github.com/CameronBrooks11/26896bf8bafcc64d3f748a41d45be761)
