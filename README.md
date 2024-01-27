@@ -1,4 +1,4 @@
-![RecurTreeSCAD Logo](branding/logo/logo_tree_v1.0.png)
+![GeoGrow Logo](branding/logo/logo_tree_v1.0.png)
 
 # Example Renders
 ![recur_tree_dir_lib](results/render-images/recur_tree_dir_lib.png)
