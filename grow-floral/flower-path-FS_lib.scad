@@ -1,4 +1,6 @@
 // flower_library.scad - Library for creating flower shapes using Fourier series
+// Adapted from:
+// https://openscadsnippetpad.blogspot.com/2017/06/flower-shape-path-fourier-series.html
 
 // Function to create flower shape outlines using Fourier series
 function FlowerF(r, isteps, w, a, h_range) =
